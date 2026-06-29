@@ -4,7 +4,7 @@ from history import save_quiz, view_history
 
 st.set_page_config(page_title="AI Quiz Builder", layout="centered")
 
-st.title("🤖 AI Quiz Builder (RAG + FAISS)")
+st.title(" AI Quiz Builder (RAG + FAISS)")
 
 if "quiz" not in st.session_state:
     st.session_state.quiz = None
@@ -13,9 +13,9 @@ if "answers" not in st.session_state:
     st.session_state.answers = []
 
 
-menu = st.sidebar.radio("Menu", ["🏠 Take Quiz", "📜 View History"])
+menu = st.sidebar.radio("Menu", ["Take Quiz", " View History"])
 
-if menu == "📜 View History":
+if menu == " View History":
     st.subheader("Quiz History")
     view_history()
     st.stop()
@@ -33,7 +33,7 @@ if st.session_state.quiz:
 
     quiz = st.session_state.quiz
 
-    st.subheader("📝 Quiz")
+    st.subheader(" Quiz")
 
     for i, q in enumerate(quiz.questions):
 
@@ -68,18 +68,18 @@ if st.session_state.quiz and st.button("Submit Quiz"):
     total = len(quiz.questions)
 
     if score == total:
-        feedback = "Perfect score! 🎉"
+        feedback = "Perfect score! "
     elif score >= 4:
-        feedback = "Excellent! 👏"
+        feedback = "Excellent! "
     elif score >= 3:
-        feedback = "Good job 👍"
+        feedback = "Good job "
     else:
-        feedback = "Keep practicing 💪"
+        feedback = "Keep practicing "
 
     st.success(f"Score: {score}/{total}")
     st.info(feedback)
 
-    # ✅ FIXED FUNCTION CALL (THIS WAS YOUR ERROR)
+   
     save_quiz(
         quiz,
         answers,
@@ -88,7 +88,7 @@ if st.session_state.quiz and st.button("Submit Quiz"):
         feedback
     )
 
-    st.subheader("📖 Review")
+    st.subheader(" Review")
 
     for i, q in enumerate(quiz.questions):
 
@@ -100,8 +100,8 @@ if st.session_state.quiz and st.button("Submit Quiz"):
         st.write(f"Explanation: {q.explanation}")
 
         if answers[i] == q.correct_answer:
-            st.success("Correct ✅")
+            st.success("Correct ")
         else:
-            st.error("Wrong ❌")
+            st.error("Wrong ")
 
         st.write("---")
