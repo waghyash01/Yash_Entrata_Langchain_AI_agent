@@ -73,13 +73,13 @@ def main():
 
     print("\n")
     print("=" * 60)
-    print("🎉 QUIZ COMPLETED")
+    print(" QUIZ COMPLETED")
     print("=" * 60)
 
     print(f"\n You answered {score}/{total_questions} questions correctly!")
 
     if score == total_questions:
-        feedback = "Outstanding! Perfect score! 🎉"
+        feedback = "Outstanding! Perfect score! "
     elif score >= 4:
         feedback = "Excellent work! You have a strong understanding of the topic. "
     elif score == 3:
@@ -121,11 +121,11 @@ def main():
 
         if user_ans == correct_ans:
 
-            print("\n✅ Correct!")
+            print("\n Correct!")
             print("Reason: Your answer matches the correct concept.")
         else:
 
-            print("\n❌ Incorrect.")
+            print("\n Incorrect.")
             print("Why it is wrong:")
             print(f"- You selected: {get_option_text(q, user_ans)}")
             print(f"- Correct is : {get_option_text(q, correct_ans)}")
@@ -136,7 +136,7 @@ def main():
         print("-" * 70)
 
     print("\n📝 Complete quiz history has been saved.")
-    print("Thank you for using AI Quiz Builder! 👋")
+    print("Thank you for using AI Quiz Builder! ")
 
 
 if __name__ == "__main__":
