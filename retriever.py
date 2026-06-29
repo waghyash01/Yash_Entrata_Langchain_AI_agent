@@ -1,6 +1,5 @@
 import wikipedia
 
-
 def get_context(topic: str) -> str:
 
     wikipedia.set_lang("en")
