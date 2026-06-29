@@ -2,7 +2,7 @@
 ================================================================================
 DATE: 2026-06-29 14:02:35.203720
 SCORE: 1/5
-FEEDBACK: Keep practicing 💪
+FEEDBACK: Keep practicing 
 
 Q1: How many players are on each team in a game of cricket?
 A: 9
@@ -57,7 +57,7 @@ Explanation: Runs are also scored when the ball reaches the boundary of the fiel
 ================================================================================
 DATE: 2026-06-29 14:03:29.672015
 SCORE: 3/5
-FEEDBACK: Good job 👍
+FEEDBACK: Good job 
 
 Q1: What is the primary objective in the family of team sports known as football?
 A: To score points by hitting a target with a racket.
