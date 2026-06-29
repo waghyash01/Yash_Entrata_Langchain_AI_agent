@@ -1,4 +1,4 @@
-# 🤖 AI-Powered Knowledge Quiz Builder (RAG + Agentic AI System)
+# 🤖 AI-Powered Knowledge Quiz Builder (RAG + FAISS + Agentic AI System)
 
 ## 👤 Submission Details
 
