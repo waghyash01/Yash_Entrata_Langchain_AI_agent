@@ -32,26 +32,28 @@ This system is not just an AI quiz generator — it is a **mini AI learning assi
 ---
 
 ## 🏗️ System Architecture
-User Input (Topic)
-↓
-Wikipedia API (Knowledge Retrieval Layer)
-↓
-FAISS Vector Store (Semantic Search Layer)
-↓
-LangChain Orchestration Layer
-↓
-Gemini LLM (Structured Quiz Generation)
-↓
-Pydantic Schema Validation
-↓
-Streamlit UI (Interactive Quiz Interface)
-↓
-Evaluation Engine (Scoring + Feedback)
-↓
-Persistent History Storage (File-based Logging)
 
+```mermaid
+flowchart TD
+    A[👤 User Input<br/>Enter Quiz Topic]
+    B[📚 Wikipedia API<br/>Knowledge Retrieval]
+    C[🗂️ FAISS Vector Store<br/>Semantic Search]
+    D[🔗 LangChain<br/>RAG Orchestration]
+    E[🤖 Google Gemini LLM<br/>Structured Quiz Generation]
+    F[✅ Pydantic<br/>Schema Validation]
+    G[💻 Streamlit UI<br/>Interactive Quiz]
+    H[📊 Evaluation Engine<br/>Score + Feedback]
+    I[📝 Persistent History<br/>File-based Storage]
 
----
+    A --> B
+    B --> C
+    C --> D
+    D --> E
+    E --> F
+    F --> G
+    G --> H
+    H --> I
+```
 
 ## ⚙️ Key Technical Decisions
 
