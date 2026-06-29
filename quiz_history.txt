@@ -1,0 +1,110 @@
+
+================================================================================
+DATE: 2026-06-29 14:02:35.203720
+SCORE: 1/5
+FEEDBACK: Keep practicing 💪
+
+Q1: How many players are on each team in a game of cricket?
+A: 9
+B: 10
+C: 11
+D: 12
+Your Answer: B
+Correct Answer: C
+Explanation: Cricket is played between two teams of eleven players.
+------------------------------------------------------------
+
+Q2: What is the standard length of a cricket pitch?
+A: 10 yards
+B: 22 yards
+C: 30 yards
+D: 50 yards
+Your Answer: C
+Correct Answer: B
+Explanation: The pitch at the centre of the field is 22-yard (20-metre; 66-foot) long.
+------------------------------------------------------------
+
+Q3: What components make up a wicket in cricket?
+A: One bail balanced on two stumps
+B: Two bails balanced on three stumps
+C: Three bails balanced on two stumps
+D: Four bails balanced on four stumps
+Your Answer: A
+Correct Answer: B
+Explanation: Each wicket comprises two bails (small sticks) balanced on three stumps.
+------------------------------------------------------------
+
+Q4: How many players from the batting team are typically on the pitch at one time?
+A: One
+B: Two
+C: Three
+D: Four
+Your Answer: B
+Correct Answer: B
+Explanation: Two players from the batting team, the striker and nonstriker, stand in front of either wicket.
+------------------------------------------------------------
+
+Q5: Besides switching places after hitting the ball, how else can runs be scored in cricket?
+A: When the bowler catches the ball
+B: When the ball reaches the boundary of the field
+C: When the fielding team drops the bat
+D: When the nonstriker hits the ball without switching
+Your Answer: C
+Correct Answer: B
+Explanation: Runs are also scored when the ball reaches the boundary of the field or when the ball is bowled illegally.
+------------------------------------------------------------
+
+================================================================================
+DATE: 2026-06-29 14:03:29.672015
+SCORE: 3/5
+FEEDBACK: Good job 👍
+
+Q1: What is the primary objective in the family of team sports known as football?
+A: To score points by hitting a target with a racket.
+B: To get the ball over a goal line, into a goal, or between goalposts.
+C: To run the fastest around a track.
+D: To throw the ball through a hoop.
+Your Answer: B
+Correct Answer: B
+Explanation: The text states that the object of football sports is 'to get the ball over a goal line, into a goal, or between goalposts using merely the body'.
+------------------------------------------------------------
+
+Q2: According to the text, how is the ball typically moved in football sports?
+A: By using specialized equipment like bats and sticks.
+B: By carrying, throwing, or kicking using merely the body.
+C: Exclusively by dribbling with the feet.
+D: Only by passing it with hands.
+Your Answer: B
+Correct Answer: B
+Explanation: The text specifies that the ball is moved 'using merely the body (by carrying, throwing, or kicking)'.
+------------------------------------------------------------
+
+Q3: In which countries is association football commonly known as soccer, according to the provided context?
+A: United Kingdom, France, Germany, Italy.
+B: Australia, Canada, South Africa, United States.
+C: Brazil, Argentina, Spain, Portugal.
+D: Japan, China, India, Russia.
+Your Answer: B
+Correct Answer: B
+Explanation: The text explicitly mentions 'association football (known as soccer in Australia, Canada, South Africa, the United States, and sometimes in Ireland and New Zealand)'.
+------------------------------------------------------------
+
+Q4: When the word 'football' is used without qualification, what does it generally mean?
+A: American football, regardless of location.
+B: The form of football that is the most popular where the word is used.
+C: Association football (soccer) worldwide.
+D: Rugby union exclusively.
+Your Answer: A
+Correct Answer: B
+Explanation: The text clarifies, 'Unqualified, the word football generally means the form of football that is the most popular where the word is used.'
+------------------------------------------------------------
+
+Q5: Which of the following is NOT listed as a sport commonly called football in the provided text?
+A: Gaelic football.
+B: Gridiron football.
+C: Basketball.
+D: Rugby league football.
+Your Answer: B
+Correct Answer: C
+Explanation: The text lists Gaelic football, gridiron football (American, arena, or Canadian), and rugby league football among the sports commonly called football. Basketball is not mentioned.
+------------------------------------------------------------
